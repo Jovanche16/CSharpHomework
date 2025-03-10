@@ -1,0 +1,15 @@
+C:\Users\Pc4all\Desktop\CSharpHomework\Homework2\StudentGroup\bin\Debug\net8.0\StudentGroup.exe
+C:\Users\Pc4all\Desktop\CSharpHomework\Homework2\StudentGroup\bin\Debug\net8.0\StudentGroup.deps.json
+C:\Users\Pc4all\Desktop\CSharpHomework\Homework2\StudentGroup\bin\Debug\net8.0\StudentGroup.runtimeconfig.json
+C:\Users\Pc4all\Desktop\CSharpHomework\Homework2\StudentGroup\bin\Debug\net8.0\StudentGroup.dll
+C:\Users\Pc4all\Desktop\CSharpHomework\Homework2\StudentGroup\bin\Debug\net8.0\StudentGroup.pdb
+C:\Users\Pc4all\Desktop\CSharpHomework\Homework2\StudentGroup\obj\Debug\net8.0\StudentGroup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc4all\Desktop\CSharpHomework\Homework2\StudentGroup\obj\Debug\net8.0\StudentGroup.AssemblyInfoInputs.cache
+C:\Users\Pc4all\Desktop\CSharpHomework\Homework2\StudentGroup\obj\Debug\net8.0\StudentGroup.AssemblyInfo.cs
+C:\Users\Pc4all\Desktop\CSharpHomework\Homework2\StudentGroup\obj\Debug\net8.0\StudentGroup.csproj.CoreCompileInputs.cache
+C:\Users\Pc4all\Desktop\CSharpHomework\Homework2\StudentGroup\obj\Debug\net8.0\StudentGroup.sourcelink.json
+C:\Users\Pc4all\Desktop\CSharpHomework\Homework2\StudentGroup\obj\Debug\net8.0\StudentGroup.dll
+C:\Users\Pc4all\Desktop\CSharpHomework\Homework2\StudentGroup\obj\Debug\net8.0\refint\StudentGroup.dll
+C:\Users\Pc4all\Desktop\CSharpHomework\Homework2\StudentGroup\obj\Debug\net8.0\StudentGroup.pdb
+C:\Users\Pc4all\Desktop\CSharpHomework\Homework2\StudentGroup\obj\Debug\net8.0\StudentGroup.genruntimeconfig.cache
+C:\Users\Pc4all\Desktop\CSharpHomework\Homework2\StudentGroup\obj\Debug\net8.0\ref\StudentGroup.dll
