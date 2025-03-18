@@ -1,0 +1,15 @@
+C:\Users\Pc4all\Desktop\CSharpHomework\Excersize3\Excersize3\obj\Debug\net8.0\Excersize3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc4all\Desktop\CSharpHomework\Excersize3\Excersize3\obj\Debug\net8.0\Excersize3.AssemblyInfoInputs.cache
+C:\Users\Pc4all\Desktop\CSharpHomework\Excersize3\Excersize3\obj\Debug\net8.0\Excersize3.AssemblyInfo.cs
+C:\Users\Pc4all\Desktop\CSharpHomework\Excersize3\Excersize3\obj\Debug\net8.0\Excersize3.csproj.CoreCompileInputs.cache
+C:\Users\Pc4all\Desktop\CSharpHomework\Excersize3\Excersize3\obj\Debug\net8.0\Excersize3.sourcelink.json
+C:\Users\Pc4all\Desktop\CSharpHomework\Excersize3\Excersize3\bin\Debug\net8.0\Excersize3.exe
+C:\Users\Pc4all\Desktop\CSharpHomework\Excersize3\Excersize3\bin\Debug\net8.0\Excersize3.deps.json
+C:\Users\Pc4all\Desktop\CSharpHomework\Excersize3\Excersize3\bin\Debug\net8.0\Excersize3.runtimeconfig.json
+C:\Users\Pc4all\Desktop\CSharpHomework\Excersize3\Excersize3\bin\Debug\net8.0\Excersize3.dll
+C:\Users\Pc4all\Desktop\CSharpHomework\Excersize3\Excersize3\bin\Debug\net8.0\Excersize3.pdb
+C:\Users\Pc4all\Desktop\CSharpHomework\Excersize3\Excersize3\obj\Debug\net8.0\Excersize3.dll
+C:\Users\Pc4all\Desktop\CSharpHomework\Excersize3\Excersize3\obj\Debug\net8.0\refint\Excersize3.dll
+C:\Users\Pc4all\Desktop\CSharpHomework\Excersize3\Excersize3\obj\Debug\net8.0\Excersize3.pdb
+C:\Users\Pc4all\Desktop\CSharpHomework\Excersize3\Excersize3\obj\Debug\net8.0\Excersize3.genruntimeconfig.cache
+C:\Users\Pc4all\Desktop\CSharpHomework\Excersize3\Excersize3\obj\Debug\net8.0\ref\Excersize3.dll
